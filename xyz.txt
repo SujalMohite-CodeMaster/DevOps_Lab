@@ -1,0 +1,5 @@
+My name is sujal Mohite .
+This is the txt file .
+create for the devoops lab .
+
+for assingment 1 this file is created.
